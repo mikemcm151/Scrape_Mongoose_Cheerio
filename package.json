@@ -1,0 +1,19 @@
+{
+  "name": "scrape_mongoose_cheerio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikemcm151/Scrape_Mongoose_Cheerio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikemcm151/Scrape_Mongoose_Cheerio/issues"
+  },
+  "homepage": "https://github.com/mikemcm151/Scrape_Mongoose_Cheerio#readme"
+}
